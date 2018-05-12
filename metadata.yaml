@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41270'
     url: http://www.gutenberg.org/2009/agents/41270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41623#The-Spell-of-ScotlandThe-Spell-Series
 gutenberg_issued: '2012-12-14'
 gutenberg_type: Text
 identifiers:
